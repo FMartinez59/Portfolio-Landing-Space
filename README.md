@@ -5,7 +5,7 @@
 
 ##The purpose of the website is to display all the projects I 
 
-# Heres the sample my Second Portfolio Page
+# Heres the sample for my Second Portfolio Page
 ![]()
 
 ## POINTS OF INTEREST
